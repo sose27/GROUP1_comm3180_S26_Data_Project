@@ -6,4 +6,10 @@
 
 * Noah, Nina, Sose
 
-* these are our datasets 
+* these are our datasets
+
+### Repository Structure
+
+* The [data](data) folder has the data used
+* [Our data analysis](data_analysis) shows the steps we went through
+  
