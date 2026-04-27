@@ -90,7 +90,6 @@ County-level American Community Survey and census data including:
 - Identify strongest predictors of Democratic vote share
 - Improve visualizations and storytelling for final presentation
 
----
 
 
 
