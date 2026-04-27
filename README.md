@@ -40,7 +40,7 @@ Focus propositions:
 - **Prop 36** – Tougher drug and theft penalties  
 
 ### County Demographic Data
-County-level ACS and census data including:
+County-level American Community Survey and census data including:
 
 - Median age  
 - Race / ethnicity composition  
@@ -91,15 +91,7 @@ County-level ACS and census data including:
 - Improve visualizations and storytelling for final presentation
 
 ---
-### Repository Structure
 
-* The [data](data) folder has the data used
-* [Our data analysis](data_analysis) shows the steps we went through
-
-
-| Col 1 | Col 2 | Col 3 |
-| --- | --- | --- |
-| something in col1 | col2 | and something in col 3 |
 
 
   
