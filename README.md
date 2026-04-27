@@ -12,4 +12,11 @@
 
 * The [data](data) folder has the data used
 * [Our data analysis](data_analysis) shows the steps we went through
+
+
+| Col 1 | Col 2 | Col 3 |
+| --- | --- | --- |
+| something in col1 | col2 | and something in col 3 |
+
+
   
