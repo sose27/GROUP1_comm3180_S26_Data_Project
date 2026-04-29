@@ -1,22 +1,64 @@
 ## Presentations for COMM3180 Group Data Project
 
-* This folder should contain the subfolders and files for your project presentations.
+* This folder contains our group's initial and final slide show presentations.
 
 ### Initial Presentation
 
-* The presentation should have 3-5 slides that cover:
-  1. What is your research question and hypothesis?
-  2. What data are you using, how did you collect it and what are its dimensions?
-  3. What are your planned analyses and/or any initial findings.
+* Here is breakdown of our initial presentation:
+  1. Research question: Which demographic and socioeconomic factors are most strongly associated with Republican vote share across California counties?
+  2. Hypothesis: While demographic factors such as age, race, and education level will significantly predict Republican vote share across California counties, industry of employment (especially agriculture) will exert an outsized effect.
+  3. Data sources
+     - American Community Survey datasets (ACSDP02, ACSDP03, and ACSDP05)
+        - Acquired from the US Census Bureau
+        - Dimensions (merged data): 59 x 24
+     - MIT Presidential Election Data by County
+        - Acquired from MIT
+        - Dimensions: 406 x 7
+     - California ballot measure data
+        - Acquired from the Office of the California Secretary of State
+        - Dimensions: 58 x 21
+  4. Planned analysis
+     - American Community Survey data
+        - Merge ACSDP02, ACSDP03, and ACSDP05
+        - Construct demographic profiles for Republican voting counties
+        - Create plots associating different demographic and socioeconomic variables with Republican vote share
+     - MIT Presidential Election Data by County
+        - Subset to only California counties
+        - Determine which counties had Republican vote share greater than 50%
+     - California ballot measure data
+        - Determine how Republican leaning counties voted on different ballot measures
 
 ### Final Presentation
 
-* The presentation should have 8-10 slides that cover:
-  1. What is your research question and hypothesis?
-  2. What data did you use, how did you acquire and clean it and what are its dimensions?
-  3. What analyses did you carry out?
-  4. What are your key findings so far?
-  5. Next steps before final submission.
+* Here is the breakdown of our final presentation:
+  1. Research question: Which demographic and socioeconomic factors are most strongly associated with Republican vote share across California counties?
+  2. Data sources
+     - American Community Survey datasets (ACSDP02, ACSDP03, and ACSDP05)
+        - Acquired from the US Census Bureau
+        - Dimensions (merged data): 59 x 24
+     - MIT Presidential Election Data by County
+        - Acquired from MIT
+        - Dimensions: 406 x 7
+     - California ballot measure data
+        - Acquired from the Office of the California Secretary of State
+        - Dimensions: 58 x 21
+  3. Analysis
+  4. American Community Survey data
+        - Merge ACSDP02, ACSDP03, and ACSDP05
+        - Construct demographic profiles for Republican voting counties
+        - Create plots associating different demographic and socioeconomic variables with Republican vote share
+     - MIT Presidential Election Data by County
+        - Subset to only California counties
+        - Determine which counties had Republican vote share greater than 50%
+     - California ballot measure data
+        - Determine how Republican leaning counties voted on different ballot measures
+  5. What are your key findings so far?
+     - California is blue statewide but politically mixed locally
+     - Geography matters, but not fully
+     - Counties vote differently by issue area
+     - While demographics drive variation, local industry and economics may have outsized influence
+  6. Next steps before final submission.
+     - 
 
 
 * Update this README file to describe the presentations.
