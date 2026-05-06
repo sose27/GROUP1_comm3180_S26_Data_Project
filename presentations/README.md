@@ -58,7 +58,6 @@
      - Counties vote differently by issue area
      - While demographics drive variation, local industry and economics may have outsized influence
   6. Next steps before final submission.
-     - 
-
-
-* Update this README file to describe the presentations.
+     - Continue constructing county profiles
+     - Zoom out beyond individual counties to explore which variables are most strongly associated with Republican vote share
+     - Build final polished visualizations
