@@ -1,8 +1,8 @@
 ## Blog Post & Creative Output
 
-This folder contains the final written and interactive components of our COMM3180 group data project, *How Blue is California?*
 
-Our project explores whether California is truly a uniformly “blue” state by analyzing county-level voting behavior, demographic trends, and proposition voting patterns. Rather than treating California as politically monolithic, we investigate how different counties respond to social, economic, and criminal justice issues.
+Our project explores whether California is truly a uniformly “blue” state by analyzing county-level voting behavior, demographic trends, and proposition voting patterns. Rather than treating California as politically monolithic, we investigate how different counties respond to social, economic, and criminal justice issues. This folder contains the final written and interactive components of our project, *How Blue is California?*
+
 
 ---
 
@@ -25,6 +25,8 @@ The blog is designed to stand alone and communicate our findings clearly without
 ## Creative Output / Interactive Website
 
 Our creative output is an interactive StoryMap website titled *If California Counties Could Talk...*
+
+Link here: https://uploads.knightlab.com/storymapjs/eb6d6b010d008aa3afe162af271c60c8/how-blue-is-california/index.html 
 
 The website personifies several California counties and allows users to explore how different regions politically “speak” based on their voting patterns, demographics, and proposition results.
 
